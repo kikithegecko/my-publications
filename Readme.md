@@ -2,7 +2,7 @@ This is a collection of my publication pdfs, scientific or otherwise. This docum
 
 ---
 
-##Scientific Talks and Publications
+## Scientific Talks and Publications
 
 Paper: [An Empirical Study of Textual Key-Fingerprint Representations](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/dechand) (Co-Authored)
 ```
@@ -21,7 +21,7 @@ publisher = {{USENIX} Association},
 
 Poster and Short Talk: [First Results in Analyzing the Certificate Transparency Ecosystem](./busse2016poster/)
 
-##Other Talks and Publications
+## Other Talks and Publications
 
 Talk at Hackover 2015: [Something Something Certificate Transparency](./ct-hackover.pdf)
 
