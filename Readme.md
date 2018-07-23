@@ -29,6 +29,8 @@ Talk at Hackover 2015: [Something Something Certificate Transparency](./ct-hacko
 
 Talk at Fachschaft Informatik Uni Hannover and Hackover 2017: [Usable Security: Was ist das und wozu in aller Welt braucht man das?](./usec-hackover.pdf)
 
+Panel discussion at "Industrie 4.0 für Niedersachsen", 16.11.2018, Hannover.
+
 Invited talk at OFFIS in 2017: [Usable Security: What Is It and Why Do We Need It?](./offis.pdf)
 
 Panel discussion at "Forschung made in Niedersachsen", 16.04.2018, Hannover.
