@@ -1,4 +1,4 @@
-This is a collection of my publication pdfs, scientific or otherwise. This document serves as a table of contents.
+This is a collection of my publication pdfs, scientific or otherwise. This document serves as a table of contents. If you're looking for a short bio, look [here](./bio_DE.md).
 
 ---
 
