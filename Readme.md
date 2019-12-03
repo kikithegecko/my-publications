@@ -4,6 +4,41 @@ This is a collection of my publication pdfs, scientific or otherwise. This docum
 
 ## Scientific Talks and Publications
 
+Journal Article ["Get a Free Item Pack with Every Activation!" -- Do Incentives Increase the Adoption Rates of Two-Factor Authentication?](https://arxiv.org/abs/1910.07269) (to appear in i-com Journal of Interactive Media, the linked version is a preprint)
+
+Paper: [Replication: No One Can Hack My Mind Revisiting a Study on Expert and Non-Expert Security Practices and Advice](https://www.usenix.org/conference/soups2019/presentation/busse)
+```
+@inproceedings {busse2019replication,
+author = {Karoline Busse and Julia Sch{\"a}fer and Matthew Smith},
+title = {Replication: No One Can Hack My Mind Revisiting a Study on Expert and Non-Expert Security Practices and Advice},
+booktitle = {Fifteenth Symposium on Usable Privacy and Security ({SOUPS} 2019)},
+year = {2019},
+address = {Santa Clara, CA},
+url = {https://www.usenix.org/conference/soups2019/presentation/busse},
+publisher = {{USENIX} Association},
+month = aug,
+}
+```
+
+Paper: ["If HTTPS Were Secure, I Wouldn't Need 2FA" - End User and Administrator Mental Models of HTTPS](https://www.computer.org/csdl/proceedings-article/2019/sp/1dlwgmOlI6A/1dlwmbTOKWY) (Co-Authored, author copy available [here](https://publications.cispa.saarland/2788/1/HTTPS_Mental_Models%20%2814%29.pdf))
+```
+@inproceedings {krombholz2019https,
+author = {K. Krombholz and K. Busse and K. Pfeffer and M. Smith and E. von Zezschwitz},
+booktitle = {2019 2019 IEEE Symposium on Security and Privacy (SP)},
+title = {"If HTTPS Were Secure, I Wouldn't Need 2FA" - End User and Administrator Mental Models of HTTPS},
+year = {2019},
+volume = {},
+issn = {},
+pages = {246-263},
+keywords = {cognitive science;encryption;protocols;browsers;interviews},
+doi = {10.1109/SP.2019.00060},
+url = {https://doi.ieeecomputersociety.org/10.1109/SP.2019.00060},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {may}
+}
+```
+
 Paper: [An Empirical Study of Textual Key-Fingerprint Representations](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/dechand) (Co-Authored)
 ```
 @inproceedings {dechand2016empirical,
@@ -29,32 +64,50 @@ Poster: [Replication: Do We Snooze If We Can't Lose? Modelling Risk with Incenti
 
 ## Other Talks and Publications
 
-Talk at Hackover 2015: [Something Something Certificate Transparency](./ct-hackover.pdf)
+Talk at TECHTIDE: ["Nichts ist sicher, alles kann weg?"](./techtide.pdf), December 2019.
 
-Talk at Fachschaft Informatik Uni Hannover and Hackover 2017: [Usable Security: Was ist das und wozu in aller Welt braucht man das?](./usec-hackover.pdf)
+Interview at Kick-Off Workshop "Digitale Arbeitswelten", LKA Hannover, November 2019.
 
-Panel discussion at "Industrie 4.0 für Niedersachsen", 16.11.2018, Hannover.
+Interview with "All Things Auth" podcast, (Episode 7)[https://www.allthingsauth.com/2019/10/07/podcast-007-soups-2019-part-2/], October 2019.
 
-Invited talk at OFFIS in 2017: [Usable Security: What Is It and Why Do We Need It?](./offis.pdf)
+Talk at TRANSFORM Workshop at Bern University of Applied Science, September 2019.
 
-Panel discussion at "Forschung made in Niedersachsen", 16.04.2018, Hannover.
+Panel discussion at "Junior Science Café", Schillerschule Hannover, May 2019.
 
-Panel discussion at "Digitalisierung der Gesundheit", 05.07.2018, München.
+Workshop moderation, "Lücken im System", Medical University Hannover, May 2019.
 
 Panel moderation at "Gründen Heute", 08.09.2018, Hannover.
 
+Panel discussion at "Digitalisierung der Gesundheit", 05.07.2018, München.
+
+Panel discussion at "Forschung made in Niedersachsen", 16.04.2018, Hannover.
+
+Panel discussion at "Industrie 4.0 für Niedersachsen", 16.11.2017, Hannover.
+
+Invited talk at OFFIS in 2017: [Usable Security: What Is It and Why Do We Need It?](./offis.pdf)
+
+Talk at Fachschaft Informatik Uni Hannover and Hackover 2017: [Usable Security: Was ist das und wozu in aller Welt braucht man das?](./usec-hackover.pdf)
+
+Talk at Hackover 2015: [Something Something Certificate Transparency](./ct-hackover.pdf)
+
 ## Academic Service and Non-Profit Work
 
-Poster PC Member at SOUPS 2017 and 2018
+PC Member at European Workshop on Usable Security and Privacy (EuroUSEC) 2019.
 
-External Reviewer for CHI 2016, 2017, 2018
+Poster PC Member at SOUPS 2017 and 2019
+
+External Reviewer for CHI 2016-2019
 
 Reviewer for the IEEE Security & Privacy Magazine Volume 15 Issue 5
 
 
 Member of the [digitalRat.niedersachsen](http://www.mw.niedersachsen.de/startseite/digitalisierung/digitalratniedersachsen/digitalratniedersachsen-150476.html), a consulting committee for digital transformation in the German federal state of Lower Saxony. I was nominated for this committee as a representant of the [Leitstelle511 e.V. -- Chaos Computer Club Hannover](https://hannover.ccc.de/).
 
+Member of the work group on IT Security, Digitalagentur Niedersachsen.
+
 Member of the advisory board for the research project [Digitalisierung in der Medizin für Frauen](https://www.mh-hannover.de/digimedfrauen.html) at Hannover Medical School.
 
-Content and program organizer for the annual [Hackover](https://hackover.de/) geekend.
+External member of the work group on law research within the (ABIDA project)[http://abida.de/] at Leibniz Universität Hannover from 2015-2017.
+
+Content and program organizer for the annual [Hackover](https://hackover.de/) geekend until 2018.
 
