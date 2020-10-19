@@ -4,7 +4,44 @@ This is a collection of my publication pdfs, scientific or otherwise. This docum
 
 ## Scientific Talks and Publications
 
-Journal Article ["Get a Free Item Pack with Every Activation!" -- Do Incentives Increase the Adoption Rates of Two-Factor Authentication?](https://arxiv.org/abs/1910.07269) (to appear in i-com Journal of Interactive Media, the linked version is a preprint)
+Journal Article ["Exploring the Security Narrative in the Work Context](https://academic.oup.com/cybersecurity/article/6/1/tyaa011/5920841) in Journal of Cybersecurity
+```
+@article{busse2020exploring,
+    author = {Busse, Karoline and Seifert, Jennifer and Smith, Matthew},
+    title = "{Exploring the security narrative in the work context}",
+    journal = {Journal of Cybersecurity},
+    volume = {6},
+    number = {1},
+    year = {2020},
+    month = {10},
+    issn = {2057-2085},
+    doi = {10.1093/cybsec/tyaa011},
+    url = {https://doi.org/10.1093/cybsec/tyaa011}
+}
+```
+Paper: [Cash, Cards, or Cryptocurrencies? A Study of Payment Culture in Four Countries](https://conferences.computer.org/eurosp/pdfs/EuroSPW2020-7k9FlVRX4z43j4uE2SeXU0/859700a200/859700a200.pdf) at European Workshop on Usable Security and Privacy 2020
+```
+@inproceedings{busse2020cash,
+  title={Cash, Cards, or Cryptocurrencies? A Study of Payment Culture in Four Countries},
+  author = {Busse, Karoline and Tahaei, Mohammad and Krombholz, Katharina and von Zezschwitz, Emanuel and Smith, Matthew and Tian, Jing and Xu, Wenyuan},
+  booktitle = {2020 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)},
+  year = {2020},
+  publisher = {IEEE Computer Society},
+  address = {Washington, DC},
+  url = {https://conferences.computer.org/eurosp/pdfs/EuroSPW2020-7k9FlVRX4z43j4uE2SeXU0/859700a200/859700a200.pdf}
+}
+```
+
+Journal Article ["Get a Free Item Pack with Every Activation!" -- Do Incentives Increase the Adoption Rates of Two-Factor Authentication?](https://arxiv.org/abs/1910.07269) (in i-com Journal of Interactive Media, the linked version is a preprint)
+```
+@article{busse2019get,
+  title={“Get a Free Item Pack with Every Activation!”-Do Incentives Increase the Adoption Rates of Two-Factor Authentication?},
+  author={Busse, Karoline and Amft, Sabrina and Hecker, Daniel and von Zezschwitz, Emanuel},
+  journal={i-com: Vol. 18, No. 3},
+  year={2019},
+  publisher={De Gruyter}
+}
+```
 
 Paper: [Replication: No One Can Hack My Mind Revisiting a Study on Expert and Non-Expert Security Practices and Advice](https://www.usenix.org/conference/soups2019/presentation/busse)
 ```
@@ -64,7 +101,7 @@ Poster: [Replication: Do We Snooze If We Can't Lose? Modelling Risk with Incenti
 
 ## Other Talks and Publications
 
-Talk at TECHTIDE: ["Nichts ist sicher, alles kann weg?"](./techtide.pdf), December 2019.
+Talk at TECHTIDE: ["Nichts ist sicher, alles kann weg?"](./techtide.pdf), December 2019. [Revised](./20201019_ECM.pdf) for European Cybersecurity Month 2020, October 2020.
 
 Interview at Kick-Off Workshop "Digitale Arbeitswelten", LKA Hannover, November 2019.
 
@@ -107,7 +144,7 @@ Member of the work group on IT Security, Digitalagentur Niedersachsen.
 
 Member of the advisory board for the research project [Digitalisierung in der Medizin für Frauen](https://www.mh-hannover.de/digimedfrauen.html) at Hannover Medical School.
 
-External member of the work group on law research within the (ABIDA project)[http://abida.de/] at Leibniz Universität Hannover from 2015-2017.
+External member of the work group on law research within the [ABIDA project](http://abida.de/) at Leibniz Universität Hannover from 2015-2017.
 
 Content and program organizer for the annual [Hackover](https://hackover.de/) geekend until 2018.
 
