@@ -101,6 +101,8 @@ Poster: [Replication: Do We Snooze If We Can't Lose? Modelling Risk with Incenti
 
 ## Other Talks and Publications
 
+Talk at NSI Netzwerktreffen Datenschutz 2020: ["Human-Centered Security and Privacy - Was ist das und wozu ist es gut?"](./20201112_Datenschutzkonferenz.pdf), November, 2020.
+
 Talk at TECHTIDE: ["Nichts ist sicher, alles kann weg?"](./techtide.pdf), December 2019. [Revised](./20201019_ECM.pdf) for European Cybersecurity Month 2020, October 2020.
 
 Interview at Kick-Off Workshop "Digitale Arbeitswelten", LKA Hannover, November 2019.
