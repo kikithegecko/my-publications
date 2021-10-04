@@ -1,7 +1,7 @@
 ### Kurzbiografie
 
-Karoline Busse studierte zwischen 2008 und 2015 Informatik an der
-Leibniz Universität Hannover. Seit April 2015 promoviert Karoline an der
+Dr. Karoline Busse studierte zwischen 2008 und 2015 Informatik an der
+Leibniz Universität Hannover. Von April 2015 bis Septmeber 2021 promovierte Karoline an der
 Rheinischen Friedrich-Wilhelms-Universität Bonn in der Usable Security
 and Privacy Research Group (USECAP) unter Prof. Dr. Matthew Smith. Nach
 einer Anstellung im Rahmen dieser Tätigkeit im Forschungszentrum L3S der
