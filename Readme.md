@@ -4,6 +4,19 @@ This is a collection of my publication pdfs, scientific or otherwise. This docum
 
 ## Scientific Talks and Publications
 
+My PhD thesis titled ["The Perception Of Security In Selected Contexts"](https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/9276)
+```
+@phdthesis{busse2021perception,
+    urn: https://nbn-resolving.org/urn:nbn:de:hbz:5-63161,
+    author = {{Karoline Busse}},
+    title = {The perception of security in selected contexts},
+    school = {Rheinische Friedrich-Wilhelms-Universität Bonn},
+    year = 2021,
+    month = aug,
+    url = {https://hdl.handle.net/20.500.11811/9276}
+}
+```
+
 Journal Article ["Exploring the Security Narrative in the Work Context](https://academic.oup.com/cybersecurity/article/6/1/tyaa011/5920841) in Journal of Cybersecurity
 ```
 @article{busse2020exploring,
@@ -101,7 +114,9 @@ Poster: [Replication: Do We Snooze If We Can't Lose? Modelling Risk with Incenti
 
 ## Other Talks and Publications
 
-Talk at NSI Netzwerktreffen Datenschutz 2020: ["Human-Centered Security and Privacy - Was ist das und wozu ist es gut?"](./20201112_Datenschutzkonferenz.pdf), November, 2020.
+Talk at NSI Fachtagung Datenschutz 2021: ["Die Kommune als Ziel von Cyberangriffen - Ausgewählte Malwaresund was wir von ihnen lernen können"](./20210915_Kommune_als_Ziel_von_Cyberangriffen.pdf), September 2021.
+
+Talk at NSI Netzwerktreffen Datenschutz 2020: ["Human-Centered Security and Privacy - Was ist das und wozu ist es gut?"](./20201112_Datenschutzkonferenz.pdf), November 2020.
 
 Talk at TECHTIDE: ["Nichts ist sicher, alles kann weg?"](./techtide.pdf), December 2019. [Revised](./20201019_ECM.pdf) for European Cybersecurity Month 2020, October 2020.
 
@@ -131,11 +146,15 @@ Talk at Hackover 2015: [Something Something Certificate Transparency](./ct-hacko
 
 ## Academic Service and Non-Profit Work
 
-PC Member at European Workshop on Usable Security and Privacy (EuroUSEC) 2019.
+PC Member at European Workshop on Usable Security and Privacy (EuroUSEC) 2019 and 2021
+
+PC Member at "Mensch und Computer" conference 2020-2021
+
+Artifact Reviewer for PETS 2021
 
 Poster PC Member at SOUPS 2017 and 2019
 
-External Reviewer for CHI 2016-2019
+External Reviewer for CHI 2016-2019, 2021
 
 Reviewer for the IEEE Security & Privacy Magazine Volume 15 Issue 5
 
