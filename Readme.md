@@ -114,6 +114,8 @@ Poster: [Replication: Do We Snooze If We Can't Lose? Modelling Risk with Incenti
 
 ## Other Talks and Publications
 
+Talk at Knowember 2021 together with Arno Heinen: ["Digitale Transformation in der Kommunalverwaltung -(wie) geht das? - Wie das NSI zur Vereinfachung der Kommunikation zwischen Bürger\*innen und Kommunalverwaltung beiträgt"](./20211110_Präsentation_Knowember.pdf), November 2021.
+
 Talk at NSI Fachtagung Datenschutz 2021: ["Die Kommune als Ziel von Cyberangriffen - Ausgewählte Malwaresund was wir von ihnen lernen können"](./20210915_Kommune_als_Ziel_von_Cyberangriffen.pdf), September 2021.
 
 Talk at NSI Netzwerktreffen Datenschutz 2020: ["Human-Centered Security and Privacy - Was ist das und wozu ist es gut?"](./20201112_Datenschutzkonferenz.pdf), November 2020.
